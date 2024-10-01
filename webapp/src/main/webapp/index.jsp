@@ -32,6 +32,10 @@
     <label for="mother"><b>Mother Number</b></label>
     <input type="text" placeholder="Enter Mother Name" name="mother" id="mother" required>
     <br>
+    
+    <label for="fatherr"><b>Father Number</b></label>
+    <input type="text" placeholder="Enter Father Name" name="father" id="father" required>
+    <br>
 
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
